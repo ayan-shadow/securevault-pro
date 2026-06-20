@@ -1,0 +1,6 @@
+{
+  "name": "SecureVault Pro",
+  "description": "A secure, premium, local-first personal vault for passwords, files, notes, and media protected by AES-256 encryption.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
